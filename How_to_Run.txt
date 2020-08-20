@@ -1,4 +1,4 @@
-To watch the tutorial video, here is the link of Neha Yadav video in her channel:- https://www.youtube.com/watch?v=h21wMKGs0qs
+This is a step by step guide to run this model:
 
 1) Make a folder named as 'train-images' where you will store images to train.
 
@@ -25,3 +25,6 @@ Make sure it clicks atleast 300 images before you end the program. Do the requir
 11) Now open load_model_image.py to recognize face from an image. Do the required configurations.
 
 12) Now open load_model_video.py to recognize face from a video or webcam. Do the required configurations.
+
+
+To watch the tutorial video, here is the link of Neha Yadav video in her channel:- https://www.youtube.com/watch?v=h21wMKGs0qs
